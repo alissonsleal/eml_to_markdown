@@ -7,6 +7,10 @@
 
 A modern, client-side web application for converting email files (.eml) to Markdown format. Built with Next.js, TypeScript, and Shadcn UI with full dark mode support.
 
+## 🚀 Live Demo
+
+**[Try it now at eml-to-markdown.vercel.app](https://eml-to-markdown.vercel.app)**
+
 ## Features
 
 - **Client-side Processing**: All conversions happen in your browser - no files are uploaded to any server
